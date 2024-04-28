@@ -14,6 +14,6 @@ Logistic Regression: A statistical model that estimates the probabilities of ava
 Each of the models has been implemented with the goal of predicting the danger level categorized on a scale from 1 to 5, with 1 being the lowest.
 
 
-Dataset: \n
+Dataset: /n
 Pérez-Guillén, C., Techel, F., Hendrick, M., Volpi, M., van Herwijnen, A., Olevski, T., Obozinski, G., Pérez-Cruz, F., Schweizer, J. (2022). Weather, snowpack and danger ratings data for automated avalanche danger level predictions.  EnviDat.  https://www.doi.org/10.16904/envidat.330.
 
