@@ -13,6 +13,9 @@ Logistic Regression: A statistical model that estimates the probabilities of ava
 
 Each of the models has been implemented with the goal of predicting the danger level categorized on a scale from 1 to 5, with 1 being the lowest.
 
+Key findings and results: <br />
+
+The performance of the models was evaluated based on accuracy primarily but also weighted recall and precision which favor overestimation more than underestimation and punish differences of more than 1 level. With that, a Decision Tree fitting resulted in 82% accuracy on the training set and 80% on the test while using 13 features. Forests are extremely overfitted and do not produce valuable models by themself. On the other hand logistic regression, despite not delivering the best initial results at 70%, I hypothesise that with more research into parameter fittings, a model could be achieved that performs at least as well as the decision tree. 
 
 
 Dataset: <br />
